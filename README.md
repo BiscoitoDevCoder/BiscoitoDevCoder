@@ -17,7 +17,12 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Contato:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@biscoitoesbr/)
+
+<p> biscoitoesbr </p>
+
+🠕          🠕          🠕          🠕          🠕          🠕          🠕          
+        
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@biscoitoesbr/)
 
 
 </div>
