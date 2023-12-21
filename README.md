@@ -5,7 +5,7 @@
     
       🐱‍💻  •   Desenvolvedor FiveM
     
-      💼  •   C.E.O: FireX Roleplay & FireX Devlopment Brasil
+      💼  •   C.E.O: FireX Roleplay & FireX Development Brasil
       
   </p>
 
